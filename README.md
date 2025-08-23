@@ -72,7 +72,7 @@ This project analyzes **10K+ customers** to understand **who is churning, why th
 ---
 
 ## 📂 Repository Contents
-- `Customer_Churn_Insights.pptx` → Presentation with insights & solutions.
+- `Customer_Churn_Insights.docx` → Document with insights & solutions.
 - `dashboard.png` → Power BI dashboard screenshot.
 - README.md → Project summary (this file).
 
