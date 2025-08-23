@@ -12,8 +12,6 @@ The project focuses on identifying drivers of churn and suggesting actionable so
 ## 📸 Dashboard Preview
 ![Customer Churn Dashboard](dashboard.png)
 
-*(Replace `dashboard.png` with the actual filename of your uploaded screenshot in the repo.  
-If your file is `Screenshot 2025-08-23 143429.png`, rename it to `dashboard.png` for simplicity.)*
 
 ---
 
