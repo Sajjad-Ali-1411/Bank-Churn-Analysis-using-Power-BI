@@ -1,2 +1,3 @@
 # Bank-Churn-Analysis-using-SQL-Power-BI
-Customer churn is a major challenge for banks and financial institutions.   This project analyzes **10K+ customers** to understand **who is churning, why they churn, and how to reduce churn**.
+This repository contains a **Customer Churn Analysis dashboard** built in **Power BI** and a **PowerPoint presentation** summarizing key business insights and recommendations.  
+The project focuses on identifying drivers of churn and suggesting actionable solutions for retention.
