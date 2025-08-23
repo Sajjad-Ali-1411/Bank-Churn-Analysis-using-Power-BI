@@ -1,15 +1,1 @@
-# Go inside repo
-cd customer-churn-analysis
-
-# Move dashboard.png into the dashboard folder
-mv path/to/dashboard.png dashboard/
-
-# Add the file
-git add dashboard/dashboard.png
-
-# Commit the change
-git commit -m "Added Power BI dashboard screenshot"
-
-# Push to GitHub
-git push origin main
 
