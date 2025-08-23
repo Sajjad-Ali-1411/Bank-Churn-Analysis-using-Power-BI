@@ -32,3 +32,18 @@ SWITCH(
     "Unknown"
 )
 
+---
+
+### Age Group Categorization
+Defined ranges using **DAX SWITCH**:
+- Under 30: `< 30`
+- 30-50: `>=30, <=50'
+- Above 50: `>50`
+
+
+```DAX
+Age group = SWITCH(TRUE(),
+              Bank_Churn[Age]<30,"Under 30",
+              Bank_Churn[Age]>=30 && Bank_Churn[Age]<=50,"30-50",
+              Bank_Churn[Age]>50,"Above 50"
+                            )
