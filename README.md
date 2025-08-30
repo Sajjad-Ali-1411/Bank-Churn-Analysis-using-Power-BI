@@ -9,15 +9,15 @@ The project focuses on identifying drivers of churn and suggesting actionable so
 
 ---
 
-## 📸 Dashboard Preview
-![Customer Churn Dashboard](dashboard.png)
-
-
----
-
 ## 🚀 Project Overview
 Customer churn is a major challenge for banks and financial institutions.  
 This project analyzes **10K+ customers** to understand **who is churning, why they churn, and how to reduce churn**.
+
+---
+
+## 📸 Dashboard Preview
+![Customer Churn Dashboard](dashboard.png)
+
 
 ---
 
